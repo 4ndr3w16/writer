@@ -1,0 +1,23 @@
+# Entorno
+.env
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datos de usuario
+chat_history.json
+project.json
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
